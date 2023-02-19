@@ -1,3 +1,8 @@
 print('Hello Uncle')
 print('Hello Engineer')
-print('Hello Python')
+print('Hello Github')
+
+friend = ['Loong','PaLek','Pond']
+
+print(friend[0])
+        
